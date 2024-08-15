@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # Set these for your situation
-my $MTDIR = "/var/www/html/apple2js";
+my $MTDIR = "/home/apple2/apple2js";
 my $BACKUPDIR = "/home/apple2/backups";
 my $TARCMD = "/bin/tar czf";
 my $VERSION = "1.0.0";
